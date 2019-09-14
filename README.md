@@ -16,5 +16,5 @@ chmod +x check.pl
 Check your whois result in `result.txt`
 
 ## Sleep time
-You can change sleep time to prevent blocking in NIC.ir firewall ...
+Change sleep time to prevent blocking in NIC.ir firewall ...
 check sleep time in line ... `sleep(10)`
