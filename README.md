@@ -1,8 +1,5 @@
-# Bulk Whois Lookup NIC.ir
-NIC.ir Bulk Whois Lookup
-
 ## Domain List
-Insert your domain into `list.txt`
+Insert your domains into `list.txt`
 
 ## Download and Run Script
 ```
@@ -16,5 +13,4 @@ chmod +x check.pl
 Check your whois result in `result.txt`
 
 ## Sleep time
-Change sleep time to prevent blocking in NIC.ir firewall ...
-check sleep time in line ... `sleep(10)`
+Change sleep time to prevent blocking in NIC.ir firewall
