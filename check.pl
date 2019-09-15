@@ -44,5 +44,5 @@ while ($domain = <$fh>) {
 		print $filehandler $domain . ", Email: " . $email . ", Expire Date: " . $expire . "\n";
 		close $filehandler;
 	}
-	sleep(8)
+	sleep(10)
 }
